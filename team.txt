@@ -1,1 +1,1 @@
-Ardian WIcaksono
+print("hello world")
